@@ -1,0 +1,25 @@
+{
+    "token": "ODgwODgwMDEwMjkzMDIyNzQw.YSktcA.BSe4qBqjYd6eKwPcx5WzNVPX16c",
+    "prefix": ".",
+
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "name": "ticketbot"
+    },
+
+    "embed": {
+        "color": "#000000",
+        "footer": "ZeroDevelopment",
+        "logo": ""
+    },
+
+
+    "ticket": {
+        "support_roles": ["891786991480504340"],
+        "cat": "891787066172670064",
+        "transcript": "891787128760066059",
+        "closing_msg": "This ticket will be closing in 5 seconds. A transcript has been saved via ticket owner & transcript channel!. Thanks for contacting ${message.guild.name} support team!"
+    }
+}
